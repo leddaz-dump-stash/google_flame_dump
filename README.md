@@ -1,0 +1,14 @@
+# flame-user 13 TP1A.220624.014 8819323 release-keys
+- manufacturer: 
+- platform: msmnile
+- codename: flame
+- flavor: flame-user
+- release: 13
+- id: TP1A.220624.014
+- incremental: 8819323
+- tags: release-keys
+- fingerprint: google/flame/flame:13/TP1A.220624.014/8819323:user/release-keys
+- is_ab: true
+- brand: google
+- branch: flame-user-13-TP1A.220624.014-8819323-release-keys
+- repo: google_flame_dump
